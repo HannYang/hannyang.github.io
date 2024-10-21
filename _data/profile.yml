@@ -3,9 +3,10 @@ secondary_name: "杨涵"
 navbar_name: "Gabija H.Yang"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- logo: assets/images/badges/南医大校徽(高清版).png  # Logo is optional
   name: M.MedSc. in Plastic and Reconstructive Surgery
-- name: M.B.B.S. in Clinical Medicine
+- logo: assets/images/badges/南医大校徽(高清版).png
+  name: M.B.B.S. in Clinical Medicine
 
 
 email: "your@email.com"
