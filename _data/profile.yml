@@ -4,7 +4,7 @@ navbar_name: "Gabija H.Yang"
 
 positions:
 - logo: assets/images/badges/南医大校徽(高清版).png  # Logo is optional
-  logo: assets/images/badges/南方医院.png
+- logo: assets/images/badges/南方医院.png
   name: M.MedSc. in Plastic and Reconstructive Surgery
 - logo: assets/images/badges/南医大校徽(高清版).png
   name: M.B.B.S. in Clinical Medicine
