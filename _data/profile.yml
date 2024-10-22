@@ -45,13 +45,13 @@ portrait_caption: >-
 
 education:
 - name: Southern Medical University (SMU) - Nanfang Hospital
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: assets/images/badges/南医大校徽(高清版).png
   position: >- 
     Department of Plastic and Reconstructive Surgery <br/>
     M.MedSc. in Surgery
   date: Sep. 2022 - present
 - name: Southern Medical University (SMU) 
-  logo: /assets/images/badges/PKU_red.png
+  logo: assets/images/badges/南医大校徽(高清版).png
   position: B.S. in Clinical Medicine
   date: Sep. 2017 - Jul. 2022
 
