@@ -1,10 +1,11 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
-date:           2023-01-05 00:01:00 +0800
+title:          "Anatomic Measurement and Variability Analysis of the Anterior Talofibular Ligament and Calcaneofibular Ligament of the Ankle"
+date:           2021-11-01 00:01:00 +0800
 selected:       true
-pub:            "Nature Communications"
-pub_date:       "2023"
+pub:            "Orthopaedic Journal of Sports Medicine"
+pub_date:       "2021"
 abstract: >-
+This study analyzed the anatomy of the anterior talofibular ligament (ATFL) and calcaneofibular ligament (CFL) in 66 ankle specimens. It found significant variability in the size and shape of the ATFL, while the angle between the ATFL and CFL remained consistent. Most CFLs attached anterior to the tip of the fibula, rather than directly at the tip. These findings provide essential anatomical data to improve surgical treatment of lateral ankle ligament injuries.
   Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
 cover:          /assets/images/covers/cover1.jpg
 authors:
