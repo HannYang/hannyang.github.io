@@ -17,6 +17,10 @@ authors:
   - Shanli He
   - Zeyu Li
   - Chang Liu
+  - Zhaoming Xiao
+  - Haibin Liang
+  - Jun Ouyang
+  - Jingxing Dai
 links:
   Paper: https://journals.sagepub.com/doi/10.1177/23259671211047269
 ---
