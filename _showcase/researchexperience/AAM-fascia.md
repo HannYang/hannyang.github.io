@@ -1,6 +1,6 @@
 ---
 show: true
-width: 8
+width: 9
 date: 2024-10-11 00:01:00 +0800
 group: Research Experience
 ---
