@@ -6,7 +6,7 @@ group: Research Experience
 ---
 <div>
     <img data-src="{{ 'assets/images/covers/cellculture.jpg' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
-  <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
+    <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
         <h2 class="p-4">Welcome to know my research experience!</h2>        
         <hr />
         <p>
@@ -22,5 +22,5 @@ group: Research Experience
         <p>
             For a tidy layout, it is recommended to set the width of the cards to be either multiple of 3 or multiple of 4 for all cards, except for small badges that do not take up much space (width=1).
         </p>
-  </div>
+    </div>
 </div>
