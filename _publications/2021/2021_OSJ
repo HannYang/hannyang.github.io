@@ -5,14 +5,26 @@ selected:       true
 pub:            "Orthopaedic Journal of Sports Medicine"
 pub_date:       "2021"
 abstract: >-
-This study analyzed the anatomy of the anterior talofibular ligament (ATFL) and calcaneofibular ligament (CFL) in 66 ankle specimens. It found significant variability in the size and shape of the ATFL, while the angle between the ATFL and CFL remained consistent. Most CFLs attached anterior to the tip of the fibula, rather than directly at the tip. These findings provide essential anatomical data to improve surgical treatment of lateral ankle ligament injuries.
+This study analyzed the anatomy of the anterior talofibular ligament (ATFL) and calcaneofibular ligament (CFL) in 66 ankle specimens. 
+It found significant variability in the size and shape of the ATFL, while the angle between the ATFL and CFL remained consistent. 
+Most CFLs attached anterior to the tip of the fibula, rather than directly at the tip. 
+These findings provide essential anatomical data to improve surgical treatment of lateral ankle ligament injuries.
   Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
 cover:          /assets/images/covers/cover1.jpg
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+- Han Yang*
+- Minghao Su*
+- Zhimin Chen*
+- Rongmei Qu
+- Zhirong Yuan
+- Jiajie Yuan
+- Shanli He
+- Zeyu Li
+- Chang Liu
+- Zhaoming Xiao
+- Haibin Liang
+- Jun Ouyang
+- Jingxing Dai
 links:
-  Paper: https://www.cell.com
+  Paper: https://journals.sagepub.com/doi/10.1177/23259671211047269
 ---
