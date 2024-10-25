@@ -13,6 +13,10 @@ authors:
   - Zhimin Chen*
   - Rongmei Qu
   - Zhirong Yuan
+  - Jiajie Yuan
+  - Shanli He
+  - Zeyu Li
+  - Chang Liu
 links:
   Paper: https://journals.sagepub.com/doi/10.1177/23259671211047269
 ---
