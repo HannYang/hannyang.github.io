@@ -10,7 +10,7 @@ group: Research Experience
         <h2 class="p-4">Welcome to know my research experience!</h2>        
         <hr />
         <p>
-            Thank you for your interest! Here, I will introduce my research experiences. 
+                Thank you for your interest! Here, I will introduce my research experiences. 
         </p>
     </div>
 </div>
