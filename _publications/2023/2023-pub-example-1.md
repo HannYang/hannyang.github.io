@@ -4,8 +4,7 @@ date:           2023-12-18 00:01:00 +0800
 selected:       true
 pub:            "Stem Cell Research & Therapy"
 pub_date:       "2023"
-abstract: >-
-Systemic sclerosis (SSc) and sclerodermatous GVHD are autoimmune diseases characterized by severe skin fibrosis due to immune dysfunction. Mesenchymal stem cell (MSC)-based therapies show promise in regulating the immune system, reducing oxidative stress, and inhibiting fibrosis. This review focuses on the role of MSC therapies in treating SSc and Scl-GVHD through these mechanisms.
+abstract: >-Systemic sclerosis (SSc) and sclerodermatous GVHD are autoimmune diseases characterized by severe skin fibrosis due to immune dysfunction. Mesenchymal stem cell (MSC)-based therapies show promise in regulating the immune system, reducing oxidative stress, and inhibiting fibrosis. This review focuses on the role of MSC therapies in treating SSc and Scl-GVHD through these mechanisms.
   Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
 cover:          /assets/images/covers/cover1.jpg
 authors:
