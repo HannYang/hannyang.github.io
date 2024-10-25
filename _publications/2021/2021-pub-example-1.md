@@ -9,7 +9,7 @@ abstract: >-
 cover:          assets/images/covers/Figure 1.JPG
 authors:
   - Han Yang*
-  - Sousan Cheong*
+  - Minghao Su*
   - Yunfan He
   - Feng Lu
 links:
