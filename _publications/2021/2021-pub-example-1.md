@@ -1,6 +1,6 @@
 ---
 title:          "Anatomic Measurement and Variability Analysis of the Anterior Talofibular Ligament and Calcaneofibular Ligament of the Ankle"
-date:           2021-12-18 00:01:00 +0800
+date:           2021-11-01 00:01:00 +0800
 selected:       true
 pub:            "Orthopaedic Journal of Sports Medicine"
 pub_date:       "2021"
@@ -13,5 +13,5 @@ authors:
   - Yunfan He
   - Feng Lu
 links:
-  Paper: https://stemcellres.biomedcentral.com/articles/10.1186/s13287-023-03543-w
+  Paper: https://journals.sagepub.com/doi/10.1177/23259671211047269
 ---
