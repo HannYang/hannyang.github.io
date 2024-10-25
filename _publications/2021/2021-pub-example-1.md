@@ -11,7 +11,8 @@ authors:
   - Han Yang*
   - Minghao Su*
   - Zhimin Chen*
-  - Feng Lu
+  - Rongmei Qu
+  - Zhirong Yuan
 links:
   Paper: https://journals.sagepub.com/doi/10.1177/23259671211047269
 ---
