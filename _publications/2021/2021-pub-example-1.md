@@ -10,7 +10,7 @@ cover:          assets/images/covers/Figure 1.JPG
 authors:
   - Han Yang*
   - Minghao Su*
-  - Yunfan He
+  - Zhimin Chen*
   - Feng Lu
 links:
   Paper: https://journals.sagepub.com/doi/10.1177/23259671211047269
