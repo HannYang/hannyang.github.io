@@ -41,8 +41,8 @@ short_bio: >-
   </p>
     
 portrait_url: assets/images/photos/IMG_0236.jpg
-#portrait_caption: >-
- # Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_caption: >-
+  Photo took on Oct. 23, 2024, in China
 
 education:
 - name: Southern Medical University (SMU) - Nanfang Hospital
