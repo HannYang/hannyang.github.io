@@ -9,7 +9,7 @@ group: Research Experience
     <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
         <h2 class="p-4">Welcome to know my research experience!</h2>        
         <hr />
-        <p>
+        <p class="p-4">
             Thank you for your interest! Here, I will introduce my research experiences. 
         </p>
     </div>
