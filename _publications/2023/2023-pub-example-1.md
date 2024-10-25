@@ -1,17 +1,18 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
-date:           2023-01-05 00:01:00 +0800
+title:          "Mesenchymal stem cell-based therapy for autoimmune-related fibrotic skin diseasessystemic sclerosis and sclerodermatous graft-versus-host disease"
+date:           2023-12-18 00:01:00 +0800
 selected:       true
-pub:            "Nature Communications"
+pub:            "Stem Cell Research & Therapy"
 pub_date:       "2023"
 abstract: >-
+Systemic sclerosis (SSc) and sclerodermatous GVHD are autoimmune diseases characterized by severe skin fibrosis due to immune dysfunction. Mesenchymal stem cell (MSC)-based therapies show promise in regulating the immune system, reducing oxidative stress, and inhibiting fibrosis. This review focuses on the role of MSC therapies in treating SSc and Scl-GVHD through these mechanisms.
   Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
 cover:          /assets/images/covers/cover1.jpg
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+- Han Yang*
+- Sousan Cheong*
+- Yunfan He
+- Feng Lu
 links:
-  Paper: https://www.cell.com
+  Paper: https://stemcellres.biomedcentral.com/articles/10.1186/s13287-023-03543-w
 ---
