@@ -7,7 +7,7 @@ group: Research Experience
 <div>
     <img data-src="{{ 'assets/images/covers/cover1.jpg' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
   <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
-        <h2> class="p-4">Welcome to know my research experience!</h2>
+        <h2 class="p-4">Welcome to know my research experience!</h2>
         <hr />
         <p>
             <code>Showcase</code> is a page where you can show off almost anything you want. It can be the photo of your pets, your favorite books, your favorite projects, or anything else you want to show to the world.
