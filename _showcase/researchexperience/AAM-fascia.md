@@ -1,6 +1,6 @@
 ---
 show: true
-width: 9
+width: 12
 height: 300px
 date: 2024-10-11 00:01:00 +0800
 group: Research Experience
@@ -13,10 +13,7 @@ group: Research Experience
         This project was the focus of my master’s research, and I’m excited to share that our paper is currently under review.
     </p>
     <p>
-        Repairing severe injuries or large soft tissue defects remains a significant challenge in clinical practice. Tissue engineering has emerged as a promising solution by using regenerative biomaterials to restore damaged tissues, with effective vascularization being critical to the success of these implants. Current methods aim to stimulate blood vessels to invade the implant, but the host-implant vascular connection process is not well understood. Unlike synthetic materials, regenerative <code>biomaterials</code> from natural sources may reduce typical immune responses and encourage vascularization and integration, highlighting a need to explore how they enhance tissue regeneration.
-    </p>
-    <p>
-        For this work, I extracted a decellularized extracellular matrix from human adipose tissue, making it an ideal model for studying biomaterial vascularization due to its natural origin and lack of host cell interference.
+        Repairing severe injuries and soft tissue defects is challenging, with vascularization essential for tissue engineering success. Regenerative biomaterials, especially natural ones, show promise by reducing immune response and promoting vascular integration, making them key for tissue restoration. For this work, I extracted a decellularized extracellular matrix from human adipose tissue, making it an ideal model for studying biomaterial vascularization due to its natural origin and lack of host cell interference.
     </p>
     <p>
         Initially, I observed that the vasculature in our matrix derived from a host-generated collagen membrane formed on its surface, which seemed at first consistent with the foreign-body capsule response often observed with implants. However, by employing vessel-tracing techniques, I discovered that the true vascular source was the subcutaneous fascia rather than the surrounding tissue. Using in situ matrix-tracing, cell-tracing, Sirius red staining, and collagen type analysis, I uncovered a surprising finding: the collagen matrix wasn’t a result of a foreign-body reaction but rather a migrated layer of fascia that brought with it embedded blood vessels. Through repeated experiments—including fascia removal and blocking—I confirmed that this migrating fascia was essential for the matrix’s vascularization.
