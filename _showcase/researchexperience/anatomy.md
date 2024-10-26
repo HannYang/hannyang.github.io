@@ -1,6 +1,7 @@
 ---
 show: true
 width: 8
+height: 295px
 date: 2024-10-10 00:01:00 +0800
 group: Research Experience
 ---
