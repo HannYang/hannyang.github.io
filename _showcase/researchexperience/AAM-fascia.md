@@ -7,7 +7,7 @@ group: Research Experience
 ---
 
 <div class="p-4">
-    <h5>The Subcutaneous Fascia-mediated Angiogenesis and Adipogenesis of Adipose Acellular Matrix.</h5>
+    <h5>Exploring Fascia’s Role in Biomaterial Vascularization: Insights from Adipose Acellular Matrix Studies</h5>
     <hr />
     <p>
         This project was the focus of my master’s research, and I’m excited to share that our paper is currently under review.
