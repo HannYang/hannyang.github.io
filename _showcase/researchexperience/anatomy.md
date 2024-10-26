@@ -2,6 +2,7 @@
 show: true
 width: 4
 date: 2024-10-10 00:01:00 +0800
+group: Research Experience
 ---
 <div>
   <img data-src="{{ 'assets/images/covers/cover1.jpg' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
