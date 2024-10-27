@@ -4,7 +4,7 @@ width: 6
 date: 2024-10-07 00:01:00 +0800
 group: Research Experience
 ---
-<div>
+<div style="height: 300px; overflow: auto;">
   <img data-src="{{ 'assets/images/covers/cover1.jpg' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
 
   <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
