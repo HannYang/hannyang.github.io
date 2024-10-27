@@ -1,13 +1,13 @@
 ---
 show: true
-width: 4
-date: 2020-01-12 00:01:00 +0800
+width: 6
+date: 2024-10-08 00:01:00 +0800
 ---
 
 <div class="p-4">
-    <h5>Disable Showcase Page?</h5>
+    <h5>ACF for Dark Circle Treatment: Efficacy and Safety</h5>
     <hr />
     <p>
-        If you want to disable this showcase page, you can hide it from the navigation bar by removing the showcase in <code>data/navigation.yml</code>
+        A clinical study assessing the effectiveness and safety of <code>adipose collagen fragments (ACF)</code> in treating dark circles. Responsibilities included <code>ACF preparation</code>, <code>extracellular vesicle extraction</code> from ACF, and <code>histological characterization</code> of ACF properties.
     </p>
 </div>
