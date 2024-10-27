@@ -1,13 +1,9 @@
 ---
 show: true
-width: 4
-date: 2020-01-12 00:01:00 +0800
+width: 6
+date: 2024-10-06 00:01:00 +0800
+group: Research Experience
 ---
-
-<div class="p-4">
-    <h5>Disable Showcase Page?</h5>
-    <hr />
-    <p>
-        If you want to disable this showcase page, you can hide it from the navigation bar by removing the showcase in <code>data/navigation.yml</code>
-    </p>
+<div class="p-4 text-center">
+    $Mesenchymal stem cells and their extracellular vesicles for autoimmune-related fibrotic skin diseases.$
 </div>
