@@ -7,15 +7,15 @@ date: 2020-01-12 00:01:00 +0800
   <img data-src="{{ 'assets/images/covers/cover1.jpg' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
 
   <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
-    <h5 class="card-title">Image Lazyload</h5>
+    <h5 class="card-title">BMI and Autologous Fat Graft Retention: A Clinical-Basic Integration Study</h5>
     <p class="card-text">
-      It is highly recommended to use lazyload for images to improve page loading speed, especially for pages with many images.
-      Example code snippet:
+      Lead researcher on a clinical and experimental study assessing correlations between BMI, Coleman fat density, SVF cell count and viability, and ECM content to predict autologous fat graft retention.
     </p>
     <p class="card-text">
-      {% raw %}
-      <code>&lt;img data-src=&quot;[Image URL]&quot; class=&quot;lazy w-100 rounded-sm&quot; src=&quot;{{ '/assets/images/empty_300x200.png' | relative_url }}&quot;&gt;</code>
-      {% endraw %}
+      Responsibilities included <code>clinical sample collection</code>, <code>laboratory processing, data measurement</code>, and establishing an <code>animal fat graft model</code>.
+    </p>
+    <p class="card-text">
+      Histological assessments are ongoing, and the manuscript draft is in progress.
     </p>
   </div>
 </div>
