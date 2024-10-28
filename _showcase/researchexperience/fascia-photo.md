@@ -3,6 +3,7 @@ show: true
 width: 3
 date: 2024-10-15 00:01:00 +0800
 height: 295px
+group: Research Experience
 images:
 - src: https://picsum.photos/seed/first1111/800/800
   title: Photo 1
