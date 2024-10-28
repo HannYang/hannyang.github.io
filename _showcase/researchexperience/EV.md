@@ -5,5 +5,7 @@ date: 2024-08-14 00:01:00 +0800
 group: Research Experience
 ---
 <div style="height: 100px; background-image: url('{{ 'assets/images/covers/14811730118382_.pic.jpg' | relative_url }}'); background-size: contain; background-position: center; background-repeat: no-repeat;" class="p-4">
-    $Mesenchymal&nbsp;stem&nbsp;cells&nbsp;and&nbsp;their&nbsp;extracellular&nbsp;vesicles&nbsp;for&nbsp;autoimmune-related&nbsp;fibrotic&nbsp;skin&nbsp;diseases.$
+    <p style="font-size: 18px; line-height: 1.5; text-align: center;">
+       $Mesenchymal&nbsp;stem&nbsp;cells&nbsp;and&nbsp;their&nbsp;extracellular&nbsp;vesicles&nbsp;for&nbsp;autoimmune-related&nbsp;fibrotic&nbsp;skin&nbsp;diseases.$
+    </p>
 </div>
