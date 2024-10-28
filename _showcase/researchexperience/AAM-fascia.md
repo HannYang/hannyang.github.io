@@ -6,7 +6,7 @@ date: 2024-10-15 00:01:00 +0800
 group: Research Experience
 ---
 <div style="height: 635px; overflow: auto;" class="p-4">
-    <img data-src="{{ 'assets/images/covers/IMG_BA9BFBCC2A5B-1.jpeg' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+    <img data-src="{{ 'assets/images/covers/IMG_4605.jpg' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
     <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)"> 
       <h5>Fascia’s Role in Biomaterial Vascularization: Insights from Acellular Matrix Studies</h5>
       <hr />
