@@ -5,8 +5,10 @@ height: 300px
 date: 2024-10-15 00:01:00 +0800
 group: Research Experience
 ---
-
-<div style="height: 635px; overflow: auto;" class="p-4">
+<div>
+  <img data-src="{{ 'assets/images/covers/cover1.jpg' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+    
+  <div style="height: 635px; overflow: auto;" class="p-4">
     <h5>Fascia’s Role in Biomaterial Vascularization: Insights from Acellular Matrix Studies</h5>
     <hr />
     <p>
@@ -24,4 +26,5 @@ group: Research Experience
     <p>
         Interestingly, the migrating fascia also exhibited spontaneous adipogenesis—a phenomenon I’m investigating further to understand whether it is induced by the adipose-derived matrix or other unknown factors. Going forward, I plan to continue exploring the role of fascia collagen in regulating blood vessel formation and its connection to this spontaneous adipogenesis.
     </p>
+  </div>
 </div>
