@@ -7,7 +7,7 @@ group: Research Experience
 ---
 
 <div style="height: 620px; overflow: auto;" class="p-4">
-    <h5>Fascia’s Role in Biomaterial Vascularization: Insights from Adipose Acellular Matrix Studies</h5>
+    <h5>Fascia’s Role in Biomaterial Vascularization: Insights from Acellular Matrix Studies</h5>
     <hr />
     <p>
         This project was the focus of my master’s research, and I’m excited to share that our paper is currently under review.
