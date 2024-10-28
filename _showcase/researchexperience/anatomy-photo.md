@@ -5,10 +5,9 @@ date: 2024-09-13 00:01:00 +0800
 height: 295px
 group: Research Experience
 images:
-- src: https://picsum.photos/seed/first1111/800/800
-  title: Photo 1
-  desc: Description 1.
-  link: https://picsum.photos/
+- src: assets/images/photos/IMG_3590.JPG
+  title: Gabija
+  desc: in Dissection Practice
 - src: https://picsum.photos/seed/second22/800/800
   title: Photo 2
   desc: Description 2
