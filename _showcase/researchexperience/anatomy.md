@@ -6,7 +6,7 @@ date: 2024-09-14 00:01:00 +0800
 group: Research Experience
 ---
 <div style="height: 400px; overflow: auto;">
-  <img src="{{ 'assets/images/covers/解剖ing.JPG' | relative_url }}" class="w-100 rounded-sm">
+  <img src="{{ 'assets/images/covers/解剖ing.jpg' | relative_url }}" class="w-100 rounded-sm">
 
   <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
     <h5 class="card-title">Hands-On Anatomy: Building Surgical Insight and Research Foundations through Dissection</h5>
