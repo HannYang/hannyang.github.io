@@ -6,7 +6,7 @@ date: 2024-10-15 00:01:00 +0800
 group: Research Experience
 ---
 
-<div style="height: 630px; overflow: auto;" class="p-4">
+<div style="height: 650px; overflow: auto;" class="p-4">
     <h5>Fascia’s Role in Biomaterial Vascularization: Insights from Acellular Matrix Studies</h5>
     <hr />
     <p>
