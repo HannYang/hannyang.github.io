@@ -5,15 +5,9 @@ height: 300px
 date: 2024-10-15 00:01:00 +0800
 group: Research Experience
 ---
-<div style="height: 635px; overflow: auto;" class="p-4">
-  <img data-src="{{ 'assets/images/covers/IMG_4607.jpg' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
-
+<div style="height: 635px; background-image: url('{{ 'assets/images/covers/IMG_4607.jpg' | relative_url }}'); background-size: cover; background-position: center;" class="p-4">
   <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
     <h5 class="card-title">Fascia’s Role in Biomaterial Vascularization: Insights from Acellular Matrix Studies</h5>
-    <p class="card-text">
-      It is highly recommended to use lazyload for images to improve page loading speed, especially for pages with many images.
-      Example code snippet:
-    </p>
     <p class="card-text">
       This project was the focus of my master’s research, and I’m excited to share that our paper is currently under review.
     </p>
