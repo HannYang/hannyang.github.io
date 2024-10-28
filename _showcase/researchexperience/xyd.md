@@ -8,15 +8,12 @@ group: Research Experience
   <img data-src="{{ 'assets/images/covers/cover1.jpg' | relative_url }}" class="lazy w-100 rounded-sm" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
 
   <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
-    <h5 class="card-title">Image Lazyload</h5>
+    <h5 class="card-title">Differentiating Vascular Matrix Complex (VMC) from Foreign Body Capsule Formation</h5>
     <p class="card-text">
-      It is highly recommended to use lazyload for images to improve page loading speed, especially for pages with many images.
-      Example code snippet:
+      This project builds on our "Fascia-Mediated Biomaterial Vascularization" research. Our earlier findings revealed that the collagenous membrane, the VMC, surrounding implanted matrices resembles migrated fascia rather than a typical foreign body capsule.
     </p>
     <p class="card-text">
-      {% raw %}
-      <code>&lt;img data-src=&quot;[Image URL]&quot; class=&quot;lazy w-100 rounded-sm&quot; src=&quot;{{ '/assets/images/empty_300x200.png' | relative_url }}&quot;&gt;</code>
-      {% endraw %}
+      Here, we compared histological properties between VMC and the fibrotic capsules of silicone implants, finding significant differences in thickness, collagen content, fiber density, and cellular infiltration. We also demonstrated the potential of Sodium Succinate to reduce fibrosis, offering promising insights for preventing post-implant contractures.
     </p>
   </div>
 </div>
