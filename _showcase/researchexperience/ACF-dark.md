@@ -12,6 +12,6 @@ group: Research Experience
         A clinical study assessing the effectiveness and safety of <code>adipose collagen fragments (ACF)</code> in treating dark circles.
     </p>
     <p>
-        Responsibilities included <code>ACF preparation</code>, <code>extracellular vesicle extraction</code> from ACF, and <code>histological characterization</code> of ACF properties.<code>↓↓↓</code>
+        Responsibilities included <code>ACF preparation</code>, <code>extracellular vesicle extraction</code> from ACF, and <code>histological characterization</code> of ACF properties.     <code>↓↓↓</code>
     </p>
 </div>
