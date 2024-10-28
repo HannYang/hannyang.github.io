@@ -6,5 +6,5 @@ class: ""  # Override the default card style
 group: Research Experience
 ---
 <div>
-<img src="{{ 'assets/images/badges/PKU_red.png' | relative_url }}" class="img-fluid rounded" >
+<img src="{{ 'assets/images/badges/南医大校徽(高清版).png' | relative_url }}" class="img-fluid rounded" >
 </div>
