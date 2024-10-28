@@ -1,7 +1,7 @@
 ---
 show: true
 width: 1
-date: 2024-09-14 00:01:00 +0800
+date: 2024-09-12 00:01:00 +0800
 class: ""  # Override the default card style
 group: Research Experience
 ---
