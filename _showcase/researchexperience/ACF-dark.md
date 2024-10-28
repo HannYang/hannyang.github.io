@@ -14,4 +14,7 @@ group: Research Experience
     <p>
         Responsibilities included <code>ACF preparation</code>, <code>extracellular vesicle extraction</code> from ACF, and <code>histological characterization</code> of ACF properties.
     </p>
+    <p>
+        ↓
+    </p>
 </div>
