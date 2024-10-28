@@ -29,7 +29,7 @@ images:
 - src: assets/images/photos/三叉神经1.jpg
   title: Trigeminal Nerve
   desc: By Gabija
-- src: assets/images/photos/门上颌动脉+下牙槽神经1.jpg
+- src: assets/images/photos/上颌动脉+下牙槽神经1.jpg
   title: Maxillary Artery and Inferior Alveolar Nerve
   desc: By Gabija
 - src: assets/images/photos/手动脉.jpg
