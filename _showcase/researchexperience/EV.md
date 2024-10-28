@@ -5,5 +5,5 @@ date: 2024-08-14 00:01:00 +0800
 group: Research Experience
 ---
 <div class="p-4 text-center" style="font-family: 'Times New Roman', Georgia, serif; font-size: 18px;">
-    Mesenchymal stem cells and their extracellular vesicles for autoimmune-related fibrotic skin diseases.
+    $Mesenchymal&nbsp;stem&nbsp;cells&nbsp;and&nbsp;their&nbsp;extracellular&nbsp;vesicles&nbsp;for&nbsp;autoimmune-related&nbsp;fibrotic&nbsp;skin&nbsp;diseases.$
 </div>
