@@ -1,11 +1,11 @@
 ---
 show: true
 width: 9
-height: 295px
+height: 420px
 date: 2024-09-14 00:01:00 +0800
 group: Research Experience
 ---
-<div style="height: 415px; overflow: auto;">
+<div style="height: 420px; overflow: auto;">
   <img src="{{ 'assets/images/covers/anatomying.pic.jpg' | relative_url }}" class="w-100 rounded-sm">
 
   <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
