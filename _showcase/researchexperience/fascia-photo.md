@@ -33,7 +33,7 @@ images:
   title: Adipogenesis in AAM
   desc: By Gabija
 - src: assets/images/photos/胶原分析.jpg
-  title: VMA Collagen Analysis
+  title: VMC Collagen Analysis
   desc: By Gabija
 - src: assets/images/photos/PCA.jpg
   title: PCA of VMC 
