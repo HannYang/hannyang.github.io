@@ -2,7 +2,7 @@
 show: true
 width: 4
 date: 2024-10-14 00:01:00 +0800
-height: 295px
+height: 320px
 group: Research Experience
 images:
 - src: assets/images/photos/筋膜血管大体.jpg
