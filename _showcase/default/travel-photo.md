@@ -2,7 +2,7 @@
 show: true
 width: 6
 date: 2023-10-15 00:01:00 +0800
-height: 295px
+height: 400px
 group: Showcase
 images:
 - src: assets/images/photos/大理1.JPG
