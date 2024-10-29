@@ -2,6 +2,7 @@
 title:          "Anatomic Measurement and Variability Analysis of the Anterior Talofibular Ligament and Calcaneofibular Ligament of the Ankle"
 date:           2021-11-01 00:01:00 +0800
 selected:       true
+type:           "Research Article"
 pub:            "Orthopaedic Journal of Sports Medicine"
 pub_date:       "2021"
 abstract: >-
