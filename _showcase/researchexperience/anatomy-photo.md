@@ -2,7 +2,7 @@
 show: true
 width: 3
 date: 2024-09-13 00:01:00 +0800
-height: 295px
+height: 310px
 group: Research Experience
 images:
 - src: assets/images/photos/IMG_3590.JPG
