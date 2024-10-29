@@ -1,5 +1,5 @@
 ---
-show: true
+show: false
 width: 1
 date: 2024-09-11 00:01:00 +0800
 class: ""  # Override the default card style
