@@ -1,8 +1,9 @@
 ---
 show: true
 width: 6
-date: 2024-10-14 00:01:00 +0800
+date: 2023-10-14 00:01:00 +0800
 height: 295px
+group: Showcase
 images:
 - src: https://picsum.photos/seed/first1111/800/800
   title: Photo 1
