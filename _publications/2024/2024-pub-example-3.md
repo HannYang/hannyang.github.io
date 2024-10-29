@@ -5,12 +5,12 @@ selected:       false
 pub:            "Journal of Translational Medicine"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2024"
 
 abstract: >-
   
-cover:          /assets/images/covers/cover3.jpg
+# cover:          /assets/images/covers/cover3.jpg
 authors:
   - Yufan Zhu
   - Han Yang
