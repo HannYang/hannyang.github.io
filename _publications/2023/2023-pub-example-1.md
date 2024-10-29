@@ -2,6 +2,7 @@
 title:          "Mesenchymal stem cell-based therapy for autoimmune-related fibrotic skin diseases: systemic sclerosis and sclerodermatous graft-versus-host disease"
 date:           2023-12-18 00:01:00 +0800
 selected:       true
+type:           "Review"
 pub:            "Stem Cell Research & Therapy"
 pub_date:       "2023"
 abstract: >-
