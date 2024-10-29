@@ -1,11 +1,11 @@
 ---
 show: true
-width: 8.5
+width: 8
 height: 300px
 date: 2024-10-15 00:01:00 +0800
 group: Research Experience
 ---
-<div style="height: 635px; background-image: url('{{ 'assets/images/covers/橙绿背景.jpg' | relative_url }}'); background-size: cover; background-position: center;" class="p-4">
+<div style="height: 680px; background-image: url('{{ 'assets/images/covers/橙绿背景.jpg' | relative_url }}'); background-size: cover; background-position: center;" class="p-4">
   <div class="card-img-overlay" style="overflow: scroll; background: rgb(255,255,255,0.8)">
     <h5 class="card-title">Fascia’s Role in Biomaterial Vascularization: Insights from Acellular Matrix Studies</h5>
     <p class="card-text">
