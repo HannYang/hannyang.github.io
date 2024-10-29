@@ -2,6 +2,7 @@
 title:          "Correction of infraorbital dark circles using autologous adipose-derived collagen."
 date:           2024-10-10 00:01:00 +0800
 selected:       false
+type:           "Article"
 pub:            "Aesthetic Plastic Surgery"
 pub_date:       "2024"
 abstract: >-
