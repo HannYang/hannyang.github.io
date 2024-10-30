@@ -4,7 +4,7 @@ date:           2024-11-01 00:01:00 +0800
 selected:       false
 type:           "Meta-analysis"
 pub:            "Journal of Translational Medicine"
-# pub_pre:        "Submitted to "
+pub_pre:        "Submitted to "
 pub_post:       'Accepted'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2024"
