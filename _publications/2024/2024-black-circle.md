@@ -4,6 +4,7 @@ date:           2024-10-10 00:01:00 +0800
 selected:       false
 type:           "Article"
 pub:            "Aesthetic Plastic Surgery"
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Article</span>'
 pub_date:       "2024"
 abstract: >-
   This study evaluates a novel treatment for infraorbital dark circles using adipose-derived extracellular matrix concentrate (ACF) injections. Ninety-four female patients aged 20-38 received ACF fillers, with follow-ups conducted over eight months. Results showed a high satisfaction rate, with 86% of participants reporting significant improvements in skin brightness, tightness, and smoothness. Over 97% were rated as “improved” by independent assessors, with no adverse effects noted. The findings suggest that ACF fillers provide effective periorbital rejuvenation and bio-stimulation with regenerative properties.
