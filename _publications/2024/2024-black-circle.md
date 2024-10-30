@@ -17,6 +17,4 @@ authors:
   - Yunfan He#
 links:
   Paper: https://link.springer.com/article/10.1007/s00266-024-04417-z
-  Code: https://github.com
-  Unsplash: https://unsplash.com/photos/orange-fruit-on-white-table-cloth-ISX_imp8t1o
 ---
