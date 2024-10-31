@@ -15,5 +15,5 @@ authors:
   - Yunfan He
   - Feng Lu
 links:
-  Paper: https://stemcellres.biomedcentral.com/articles/10.1186/s13287-023-03543-w
+  Paper: https://pmc.ncbi.nlm.nih.gov/articles/PMC10729330/
 ---
