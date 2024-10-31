@@ -5,7 +5,7 @@ selected:       false
 type:           "Meta-analysis"
 pub:            "Journal of Translational Medicine"
 # pub_pre:        "Submitted to "
-pub_post:       " Accepted "
+pub_post:       "   **Accepted**   "
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Review</span>'
 pub_date:       "2024"
 abstract: >-
