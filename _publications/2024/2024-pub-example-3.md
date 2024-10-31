@@ -8,7 +8,7 @@ pub_post:       "   Accepted   "
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Meta-Analysis</span>'
 pub_date:       "2024"
 abstract: >-
-  # Add your abstract here if needed.
+  Waiting for publication
 cover:          /assets/images/covers/cover3.jpg
 authors:
   - "Yufan Zhu"
