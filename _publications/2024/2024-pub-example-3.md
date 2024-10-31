@@ -2,11 +2,10 @@
 title:          "Mesenchymal stem cells-derived extracellular vesicles for wound healing and skin regeneration: A systematic review and meta-analysis of preclinical studies."
 date:           2024-11-01 00:01:00 +0800
 selected:       false
-type:           "Meta-analysis"
 pub:            "Journal of Translational Medicine"
 # pub_pre:        "Submitted to "
 pub_post:       "   Accepted   "
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Review</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Meta-Analysis</span>'
 pub_date:       "2024"
 abstract: >-
   # Add your abstract here if needed.
