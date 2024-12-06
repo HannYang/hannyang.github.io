@@ -1,7 +1,7 @@
 ---
 show: true
-width: 6
-date: 2023-10-15 00:01:00 +0800
+width: 4
+date: 2023-10-13 00:01:00 +0800
 height: 400px
 group: Showcase
 images:
