@@ -3,10 +3,13 @@ secondary_name: "杨 涵"
 navbar_name: "Yang, Han"
 
 positions:
-- logo: assets/images/badges/南医大校徽(高清版).png  # Logo is optional
+- logo: assets/images/badges/UG profile.png  # Logo is optional
+  name: Phd.Sc. in Biomedical molecular biology
+- logo: assets/images/badges/南医大校徽(高清版).png 
   name: M.MedSc. in Plastic and Reconstructive Surgery
 - logo: assets/images/badges/南医大校徽(高清版).png
   name: M.B.B.S. in Clinical Medicine
+
 
 
 email: "yanghan0826@foxmail.com"
