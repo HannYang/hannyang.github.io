@@ -47,14 +47,12 @@ portrait_caption: >-
   Photo of Han took on Sept 2025
 
 education:
-- name: VIB-UGent Center for Inflammation Research (VIB-IRC)
-  logo: assets/images/badges/VIB profile.png
-  date: Oct. 2025 - present
 - name: Gent University (UG)
   logo: assets/images/badges/UG profile.png
+- name: VIB-UGent Center for Inflammation Research (VIB-IRC)
+  logo: assets/images/badges/VIB profile.png
   position: >- 
-    Department of Biomedical Molecular Biology <br/>
-    Phd.Sc. in Biochemistry and Biotechnology
+    Phd.Sc. in Biomedical Molecular Biology
   date: Oct. 2025 - present
 - name: Southern Medical University (SMU) - Nanfang Hospital
   logo: assets/images/badges/南方医院红.jpg
@@ -65,6 +63,13 @@ education:
   logo: assets/images/badges/南医大校徽(高清版).png
   position: B.S. in Clinical Medicine
   date: Sep. 2017 - Jul. 2022
+
+#- name: VIB-UGent Center for Inflammation Research (VIB-IRC)
+#  logo: assets/images/badges/VIB profile.png
+#  position: >- 
+#    Department of Biomedical Molecular Biology <br/>
+#    Phd.Sc. in Biochemistry and Biotechnology
+#  date: Oct. 2025 - present
 
  #experience:
  #- name: Peking University
