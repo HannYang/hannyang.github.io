@@ -47,12 +47,18 @@ portrait_caption: >-
   Photo of Han took on Sept 2025
 
 education:
+- name: Gent University (UG) - VIB
+  logo: assets/images/badges/UG profile.png
+  position: >- 
+    Department of Biomedical Molecular Biology <br/>
+    Phd.Sc. in Biochemistry and Biotechnology
+  date: Oct. 2025 - present
 - name: Southern Medical University (SMU) - Nanfang Hospital
   logo: assets/images/badges/南方医院红.jpg
   position: >- 
     Department of Plastic and Reconstructive Surgery <br/>
     M.MedSc. in Surgery
-  date: Sep. 2022 - present
+  date: Sep. 2022 - June. 2025
 - name: Southern Medical University (SMU) 
   logo: assets/images/badges/南医大校徽(高清版).png
   position: B.S. in Clinical Medicine
