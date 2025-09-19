@@ -47,7 +47,9 @@ portrait_caption: >-
   Photo of Han took on Sept 2025
 
 education:
-- name: Gent University (UG) - VIB
+- name: VIB-UGent Center for Inflammation Research
+  logo: assets/images/badges/UG profile.png
+- name: Gent University (UG)
   logo: assets/images/badges/UG profile.png
   position: >- 
     Department of Biomedical Molecular Biology <br/>
