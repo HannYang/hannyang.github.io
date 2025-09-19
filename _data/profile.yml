@@ -4,7 +4,7 @@ navbar_name: "Yang, Han"
 
 positions:
 - logo: assets/images/badges/UG profile.png  # Logo is optional
-  name: Phd.Sc. in Biomedical molecular biology
+  name: PhD.Sc. in Biomedical molecular biology
 - logo: assets/images/badges/南医大校徽(高清版).png 
   name: M.MedSc. in Plastic and Reconstructive Surgery
 - logo: assets/images/badges/南医大校徽(高清版).png
@@ -12,7 +12,7 @@ positions:
 
 
 
-email: "yanghan0826@foxmail.com"
+email: "yanghan0826@foxmail.com","Han.Yang@UGent.be"
 cv_link: assets/Han Yang CV.pdf
 # gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 # github: your_github_id
